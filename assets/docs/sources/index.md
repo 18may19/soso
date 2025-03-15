@@ -21,3 +21,8 @@ XXXXX日本59特色功能
 离线缓存：支持XXXXX日本59离线版下载，无网环境也能自由阅读。
 XXXXX日本59下载与安装
 XXXXX日本59支持安卓、iOS、PC网页版，用户可通过XXXXX日本59官网获取最新安装包，体验流畅无广告的高清漫画阅读。立即下载XXXXX日本59官方版，开启你的漫画世界！
+
+
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+    <a href="https://example.com" style="text-decoration: none; color: white; background-color: black; font-size: 24px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">Click Here</a>
+</div>
