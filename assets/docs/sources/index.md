@@ -24,5 +24,5 @@ XXXXX平台适用于安卓、iOS、PC网页版，用户可通过XXXXX官网获�
 </div>
 
 
-<script src="/js/woai.js"></script>
+
  
