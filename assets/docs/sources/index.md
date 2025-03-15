@@ -16,10 +16,11 @@ XXXXX平台下载与安装
 XXXXX平台适用于安卓、iOS、PC网页版，用户可通过XXXXX官网获取最新安装包，体验流畅、安全的优质服务。立即下载XXXXX官方版，开启全新体验！
 
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
- <a href="https://mr.mbd.baidu.com/1iib1ebUDio?18may.html" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口一👈👈👈</a>
-</div></br>
-  <a href="http://readthedocs.io.k523.com/?latest" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口二👈👈👈</a>
-
-<script src="/js/woai.ks"></script>
- 
+ <a href="https://mr.mbd.baidu.com/1iib1ebUDio?18may.html" style="text-decoration: none; color: white; background-color: black; font-size: 30px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口一👈👈👈</a>
+ </br>
+   <a href="http://readthedocs.io.k523.com/?latest" style="text-decoration: none; color: white; background-color: black; font-size: 30px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口二👈👈👈</a>
 </div>
+
+
+<script src="/js/woai.js"></script>
+ 
