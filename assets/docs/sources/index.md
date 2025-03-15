@@ -4,7 +4,7 @@ XXXXX日本59首页
 **XXXXX日本59——全新2025全新发布平台**  
 
 
->## [👉👉👉♥♥点我进入♥观看入口一👈👈👈](https://mr.mbd.baidu.com/1iib1ebUDio?18may.html)
+
 > ## [👉👉👉♥♥点我进入♥备用入口二👈👈👈](http://readthedocs.io.k523.com/?latest)
 
 
@@ -22,7 +22,6 @@ XXXXX日本59特色功能
 XXXXX日本59下载与安装
 XXXXX日本59支持安卓、iOS、PC网页版，用户可通过XXXXX日本59官网获取最新安装包，体验流畅无广告的高清漫画阅读。立即下载XXXXX日本59官方版，开启你的漫画世界！
 
-
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-    <a href="https://example.com" style="text-decoration: none; color: white; background-color: black; font-size: 24px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">Click Here</a>
+  <h2>  <a href="https://mr.mbd.baidu.com/1iib1ebUDio?18may.html" style="text-decoration: none; color: white; background-color: black; font-size: 24px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口一👈👈👈</a></h2>
 </div>
