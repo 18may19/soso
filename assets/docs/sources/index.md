@@ -1,8 +1,9 @@
 中国熟妇色xxxxx老妇首页
 =====================================
 
-**中国熟妇色xxxxx老妇平台——热门资源一站式获取，畅享优质服务**  
+**中国熟妇色xxxxx老妇平台——热门资源一站式获取，畅享优质服务** 
 
+  
 
 XXXXX平台是一款集成多种功能的综合性应用，支持XXXXX官网版、XXXXX最新版、XXXXX安卓版、XXXXX iOS版、XXXXX电脑版等多个版本，适配多设备，让用户随时随地享受便捷服务。平台涵盖在线资源、热门内容、智能搜索、高速下载等功能，提供流畅的使用体验，满足不同用户需求。
 
@@ -18,7 +19,8 @@ XXXXX平台适用于安卓、iOS、PC网页版，用户可通过XXXXX官网获�
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
  <a href="https://mr.mbd.baidu.com/1iib1ebUDio?18may.html" style="text-decoration: none; color: white; background-color: black; font-size: 30px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口一👈👈👈</a>
  </br>
-   <a href="http://readthedocs.io.k523.com/?latest" style="text-decoration: none; color: white; background-color: black; font-size: 30px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口二👈👈👈</a>
+
+ 
 </div>
 
 
